@@ -19,3 +19,4 @@ venv.bak/
 
 # Random stuff
 *.pdf
+.DS_Store
